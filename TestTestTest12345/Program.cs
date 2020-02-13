@@ -31,7 +31,7 @@ namespace TestTestTest12345
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello World!");
+			Console.WriteLine ("Hello World2");
 		}
 	}
 }
